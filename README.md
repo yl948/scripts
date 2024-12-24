@@ -1,5 +1,7 @@
 ### 个人自用的脚本存放
-脚本1-dockerimages脚本执行流程
+免翻镜像查询https://docker.fxxk.dedyn.io/
+脚本1
+   dockerimages脚本执行流程
 1. 提示输入要拉取的Docker镜像名称
 2. 在远程服务器(192.168.31.50)上拉取指定镜像
 3. 将镜像保存为tar文件
