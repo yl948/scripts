@@ -9,3 +9,8 @@
 4. 传输tar文件到本地
 5. 在本地导入镜像
 6. 自动清理临时文件
+
+脚本2
+  tar_zip_scp_sync.py
+  压缩，解压，传输
+  ![image](https://github.com/user-attachments/assets/03b9367d-8297-4e35-80b3-039a3b56ba1e)
