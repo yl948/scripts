@@ -15,3 +15,6 @@
   压缩，解压，传输
   
   ![image](https://github.com/user-attachments/assets/03b9367d-8297-4e35-80b3-039a3b56ba1e)
+脚本3
+Network Share Management Tool网络共享管理工具
+![Uploading image.png…]()
