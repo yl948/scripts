@@ -20,4 +20,5 @@
 脚本3
 Network Share Management Tool网络共享管理工具
 
-![image](https://github.com/user-attachments/assets/9b205006-a813-4285-bb72-2d9934aeec5b)
+![image](https://github.com/user-attachments/assets/987f3bc1-bd23-4b2c-a273-8df61c17eb27)
+
